@@ -1,0 +1,3 @@
+# Las migraciones generadas por TypeORM se guardan aqui.
+# Genera la primera con:
+#   npm run migration:generate -- src/database/migrations/InitVictoria
